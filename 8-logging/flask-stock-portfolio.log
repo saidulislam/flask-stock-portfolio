@@ -1,0 +1,5 @@
+2021-12-31 20:49:49,185 INFO: Starting the Flask Stock Portfolio App... [in app.py:20]
+2021-12-31 20:49:49,565 INFO: Starting the Flask Stock Portfolio App... [in app.py:20]
+2021-12-31 20:52:53,766 INFO: Starting the Flask Stock Portfolio App... [in app.py:28]
+2021-12-31 20:54:03,905 INFO: Starting the Flask Stock Portfolio App... [in app.py:28]
+2021-12-31 20:54:19,221 INFO: Added new stock (IWY)! [in app.py:56]
